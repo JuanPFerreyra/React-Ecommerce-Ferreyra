@@ -1,4 +1,5 @@
 import { useCartContext } from "../Context/CartContext";
+import Formulario from "../Formulario/Formulario";
 
 const Cart = () => {
     const {cart, cartVacio, totalCompra, cancelItem}  = useCartContext()
@@ -26,7 +27,8 @@ const Cart = () => {
             </ul>
             <h5>Total a pagar: $ {totalCompra()}</h5>
             <button onClick={cartVacio} className="btn btn-outline-danger">VACIAR CARRITO</button>
-        </div>
+            <Formulario/>
+        </div>                                                                              
     )
 }
 

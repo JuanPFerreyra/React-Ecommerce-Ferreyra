@@ -1,3 +1,22 @@
+# PROYECTO: TIENDA DE ROPA FEMENINA 
+`JT INDUMENTARIA` por "Juan Pablo Ferreyra"
+`DEMO DE LA PAGINA:` 
+
+# FUNCIONES:
+En inicio se podrán ver todas las prendas disponibles de la tienda, al ingresar a cada producto se podrá seleccionar la cantidad que desea comprar, cada prenda que desee comprar se agregara en un "carrito de compras" el cual calculará el total y finalmente te permitirá realizar la compra. 
+
+# DEPENDENCIAS:
+"bootstrap": "^5.1.3",
+"firebase": "^9.9.1",
+"react": "^18.1.0",
+"react-bootstrap": "^2.4.0",
+"react-dom": "^18.1.0",
+"react-router-dom": "^6.3.0",
+"react-scripts": "^5.0.1",
+"web-vitals": "^2.1.4"
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
