@@ -1,6 +1,6 @@
 # PROYECTO: TIENDA DE ROPA FEMENINA 
 `JT INDUMENTARIA` por "Juan Pablo Ferreyra"
-`DEMO DE LA PAGINA:` https://beamish-dieffenbachia-41fb95.netlify.app/
+`DEMO DE LA PAGINA` https://beamish-dieffenbachia-41fb95.netlify.app/
 
 # FUNCIONES:
 En inicio se podrán ver todas las prendas disponibles de la tienda, al ingresar a cada producto se podrá seleccionar la cantidad que desea comprar, cada prenda que desee comprar se agregara en un "carrito de compras" el cual calculará el total y finalmente te permitirá realizar la compra. 

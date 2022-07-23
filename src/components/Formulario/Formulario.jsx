@@ -48,7 +48,7 @@ const Formulario = () => {
                         <input type="tel" value={telefono} onChange={(e)=>setTelefono(e.target.value)}></input>
                 </form>
             </div>
-            <button onClick={agregarOrdenCompra} className="btn btn-outline-success text-center">FINALIZAR COMPRA</button>
+            <button onClick={ agregarOrdenCompra } className="btn btn-outline-success text-center">FINALIZAR COMPRA</button>
             
         </>
     )
